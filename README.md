@@ -183,5 +183,3 @@ A statistics-driven dashboard displaying:
 
 RUNX aims to redefine marathon participation by putting **runners first** — helping them track honestly, improve consistently, and connect meaningfully.
 
-
-Just tell me your next step 🚀
